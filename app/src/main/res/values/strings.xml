@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">বাড়ি ও মেস ভাড়ার বিজ্ঞাপন</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome Back</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="recent">সর্বশেষ বিজ্ঞাপন</string>
+    <string name="area">এলাকাভিত্তিক বিজ্ঞাপন</string>
+    <string name="area2">এলাকা : </string>
+    <string name="contact">যোগাযোগ: </string>
+
+
+
+
+</resources>
