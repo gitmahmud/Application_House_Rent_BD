@@ -20,6 +20,8 @@ public class MainActivity extends Activity {
     private MyDBHandler db;
     private SessionManager session;
 
+
+    //hi hello
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
