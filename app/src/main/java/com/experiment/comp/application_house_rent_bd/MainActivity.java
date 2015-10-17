@@ -11,8 +11,6 @@ import android.widget.TextView;
 
 import com.experiment.comp.application_house_rent_bd.Others.SessionManager;
 
-//Hi
-
 public class MainActivity extends Activity {
 
     private TextView txtName;
